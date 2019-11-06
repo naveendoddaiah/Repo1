@@ -1,1 +1,2 @@
-Creating a file for Demo purpose
+Welcome to GIT !!
+This is the demo as part of GIT classroom training.
